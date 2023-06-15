@@ -32,7 +32,7 @@ const HomePage = () => {
 
   return (
     <>
-      <section className="container px-4 mx-auto py-4">
+      <section className="container px-4 mx-auto py-4 overflow-x-hidden  ">
         <div className="flex items-center justify-between">
           <div>
             <h2 className="text-lg font-medium text-gray-800 dark:text-white">
